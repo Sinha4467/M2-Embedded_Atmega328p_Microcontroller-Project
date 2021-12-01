@@ -1,13 +1,4 @@
-/**
- * @file Activity1.c
- * @author pavan
- * @Activity 1 Blinking the LED
- * @version 0.1
- * @date 2021-09-14
- * 
- * @copyright Copyright (c) 2021
- * 
- */
+
 
 #include "activity1.h"
 
