@@ -16,9 +16,9 @@
 | 3\_Implementation | Codes and documentation |
 | 4\_Test plan and output | Documents with test plans and procedures |
 
-## Contributors List and Summary
+## Contributors List
 
-PS No. |  Name               |   Features |
--------|---------------------|----------------|
-40020856 |SHUBHAM SINHA  |  Tests if button is on or not, Converts the binary to adc, Displays the temperature on the serial monitor | 
+PS No. |  Name               | 
+-------|---------------------|
+40020856 |SHUBHAM SINHA  |  
   
