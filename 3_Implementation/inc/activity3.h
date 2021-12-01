@@ -1,13 +1,4 @@
-/**
- * @file Activity3.h
- * @author pavan
- * @Header file for activity3
- * @version 0.1
- * @date 2021-09-15
- * 
- * @copyright Copyright (c) 2021
- * 
- */
+
 #ifndef __ACTIVITY_3_H__
 #define __ACTIVITY_3_H__
 
