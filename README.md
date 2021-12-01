@@ -1,4 +1,4 @@
-# Vehichle Seat Heating System
+# Vehicle Seat Heating System
 ## **Folder Structure**
 
 | **Folder** | **Description** |
