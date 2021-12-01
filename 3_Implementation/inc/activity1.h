@@ -1,15 +1,6 @@
 #ifndef __ACTIVITY_1_H__
 #define __ACTIVITY_1_H__
-/**
- * @file activity1.h
- * @author shubham
- * @Header file for activity1
- * @version 0.1
- * @date 2021-09-15
- * 
- * @copyright Copyright (c) 2021
- * 
- */
+
 
 /**
  * Defining the macros
