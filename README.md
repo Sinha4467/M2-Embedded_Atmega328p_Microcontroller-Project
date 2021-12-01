@@ -1,8 +1,9 @@
-# Code Inspector
+## Code Inspector
 ![Code Quality Score](https://api.codiga.io/project/30239/score/svg)
 ![Code Grade](https://api.codiga.io/project/30239/status/svg)
 
-#
+## Codacy
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/3ce7906cc3b54c7a99f6994a9d448cf3)](https://www.codacy.com/gh/Sinha4467/M2-Embedded_Atmega328p_Microcontroller-Project/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Sinha4467/M2-Embedded_Atmega328p_Microcontroller-Project&amp;utm_campaign=Badge_Grade)
 
 
 # Vehicle Seat Heating System
