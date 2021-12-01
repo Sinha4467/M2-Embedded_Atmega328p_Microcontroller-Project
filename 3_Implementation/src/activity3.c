@@ -1,13 +1,4 @@
-/**
- * @Activity3.c
- * @pavan
- * @Acquiring ADC into PWM
- * @version 0.1
- * @date 2021-09-14
- * 
- * @copyright Copyright (c) 2021
- * 
- */
+
 
 #include "activity2.h"
 #include "activity3.h"
