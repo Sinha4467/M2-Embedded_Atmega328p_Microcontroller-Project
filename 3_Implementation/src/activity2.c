@@ -1,12 +1,4 @@
-/**
- * @file Activity2.c
- * @author pavan
- * @ADC values 
- * @version 0.1
- * @date 2021-09-14
- * 
- * @copyright Copyright (c) 2021
- */
+
 #include "activity2.h"
 
 void initialiseADC()
