@@ -1,0 +1,12 @@
+Circuit: VSHS.simu
+
+Bill of Materials:
+
+Led-12 : Led   
+Led-24 : Led   
+Potentiometer-72 : Potentiometer 1 kΩ
+Resistor-10 : Resistor 100 Ω
+Resistor-11 : Resistor 100 Ω
+Switch-16 : Switch   
+Switch-17 : Switch   
+atmega328-1 : atmega328   
